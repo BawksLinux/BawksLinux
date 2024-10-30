@@ -1,4 +1,9 @@
 # Welcome to Bawks Linux
+Bawks is a personal project that allows me to keep my current Linux install running and looking and looking like the original CrunchBand... it also is an homage to CB.
+
+Bawks is not a distro... maybe a distrolet? This is just a collection of config files, images, and directions used to make what I call Bawks.
+
+# History
 My first Linux install was Slackware 4/95 and I pretty much stuck with Slackware, until I started looking at versions of Linux designed to make Ubuntu simpler and faster... from there, I settled on Crunchbang.
 
 In 2010, CrunchBang released "Statler" (based on Debian); I was, at this point, a dedicated CrunchBang user.
